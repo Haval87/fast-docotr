@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "660768909525",
+    "firebase_url": "https://fast-doctor-6c0a9.firebaseio.com",
+    "project_id": "fast-doctor-6c0a9",
+    "storage_bucket": "fast-doctor-6c0a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660768909525:android:52d5b3bda559262e445a5c",
+        "android_client_info": {
+          "package_name": "tech.trimaestro.multiclinic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660768909525-7k00p8cidrm4kvl65geumq5d3562j8qk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tech.trimaestro.multiclinic",
+            "certificate_hash": "68f61efde82a8f44f24565f3700abd4b1f8c61d3"
+          }
+        },
+        {
+          "client_id": "660768909525-ctj688fpch0i4q7244f5rscpsmrl7pcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjI-fGLPH3BIlWj2W6ea5m7WzzLQZj8PM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660768909525-ctj688fpch0i4q7244f5rscpsmrl7pcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

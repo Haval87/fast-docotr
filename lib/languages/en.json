@@ -1,0 +1,18 @@
+{
+  "app_name": "فاست دکتۆر",
+  "loading": "ئامادەکردن",
+  "change_Language": "زمان هەڵبژێرە",
+  "english": "English",
+  "kurdish": "کوردی",
+  "arabic":"عربی",
+  "request_code": "Verify",
+  "enter_code":"تکایە کۆد بنوسە",
+  "resend_code": "Resend Code",
+  "enter_otp_txt_msg": "Please enter the one time password (OTP) received on your entered mobile number !",
+  "login":"چوو،نە ژورەو",
+  "Enter Phone Number": "تکایە ژمارەی مۆبایل بنوسە",
+  "Done": "باشە",
+  "Invalid Code": "کۆد هەڵەیە"
+
+
+}
